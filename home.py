@@ -51,7 +51,7 @@ class Pagina_inicio():
       # Elements of header Frame
       header = Label(
           header_frame,
-          text="BienvenidosAremote",
+          text="BienvenidosRemoto",
           foreground="white",
           bg="gray",
           font=("calibri", 15),
